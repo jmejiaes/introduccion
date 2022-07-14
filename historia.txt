@@ -1,3 +1,5 @@
 Mi nombre es Juan
 
-Tengo 20 años
+Tengo 20 años y estudio programacion
+
+Actualmente estoy haciendo el curso de git en platzi
